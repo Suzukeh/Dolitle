@@ -4,7 +4,7 @@
 ![image](https://user-images.githubusercontent.com/49985092/95007498-a118c100-064b-11eb-8ec7-4cbe32e6c97a.png)
 
 ## 実行
-リポジトリ内のファイルをダウンロードし，ドリトルでINTERPlittle.dtlを開いて実行してください．
+適当な場所へダウンロードし，ドリトルでINTERPlittle.dtlを開いて実行してください．
 
 画像の入力欄の説明の通り
 
